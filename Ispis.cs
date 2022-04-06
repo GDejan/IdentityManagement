@@ -8,9 +8,9 @@ namespace IdentityManagement
 {
     public class Ispis
     {
-        public void ispis(int id)
+        public void ispis(int Msgid)
         {
-            switch (id)
+            switch (Msgid)
             {
                 case 1:
                     Console.ForegroundColor = ConsoleColor.Green;
